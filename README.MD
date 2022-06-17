@@ -1,3 +1,6 @@
+# Version del curso
+Version Actual: v1.2.2
+
 Soy un readme.
 
 # Titulos
